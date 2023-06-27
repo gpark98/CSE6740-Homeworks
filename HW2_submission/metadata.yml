@@ -1,0 +1,11 @@
+---
+:id: 142044880
+:submitters:
+- :name: Gyujin Park
+  :email: gpark98@gatech.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-10-19 15:46:07.866359000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-10-19 08:46:07.866359000 Z
+:status: processed
